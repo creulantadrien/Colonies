@@ -1,0 +1,42 @@
+I write in english just to train me :-)
+###########################
+## First step
+###########################
+At this time we need to concentrate to put the first stone.
+
+the view of this game is standard isometric view, controled with : 
+- arrow to move the camera
+- pageUp pageDown to rotate the camera
+- mouse wheel to control the zoom  
+- right click to open menu
+- left click to make action (select, put, ...)
+
+###########################
+## Idea for the futur
+###########################
+Define the class of objects :
+- planet (Type, size, coordinate, ...)
+- building (Type, size, ...)
+- citizen (
+- government type 
+
+
+Name of dev team : 
+- The Gods Corporation 
+- The Hedgehog Corporation (juste to have the "THC" logo :-) )
+
+
+Name of this game : 
+- battle of gods
+- play like gods
+- i am a god 
+- Second World
+- Make your World
+- ...
+
+###########################
+## Documentation
+###########################
+https://en.wikipedia.org/wiki/List_of_planet_types
+https://en.wikipedia.org/wiki/Milky_Way
+
