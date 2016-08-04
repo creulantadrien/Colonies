@@ -12,6 +12,32 @@ the view of this game is standard isometric view, controled with :
 - left click to make action (select, put, ...)
 
 ###########################
+## PURPOSE
+###########################
+
+In first time we have single 3D object to represent one construction
+
+This is a fisrt list of building
+
+
+- Standard appartment
+- Luxe appartment
+- Spaceport
+- Administrative center
+- Waterpurification
+- Mine (for raw material)
+	- Iron
+	- Carbone
+	- Sand (for glass)
+	- Deuterium
+- Energetique central
+- Laboratory
+- Food production
+	- Meat
+	- Vegetal 
+
+
+###########################
 ## Idea for the futur
 ###########################
 Define the class of objects :
