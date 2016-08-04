@@ -17,7 +17,7 @@ the view of this game is standard isometric view, controled with :
 Define the class of objects :
 - planet (Type, size, coordinate, ...)
 - building (Type, size, ...)
-- citizen (
+- citizen (fisrt name, last name, job, home)
 - government type 
 
 
